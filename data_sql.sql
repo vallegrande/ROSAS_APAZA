@@ -1,3 +1,6 @@
+
+USE ROSAS_APAZA;
+
 insert into student ( names, last_names , email , birtday ) values 
 ('jose', 'Gonsalez', 'jose@gmail.com', '2010-03-21'),
 ('carlos', 'rodriguez', 'carlos@gmail.com', '2014-03-21'),
